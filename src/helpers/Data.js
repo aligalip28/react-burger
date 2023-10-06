@@ -1,0 +1,88 @@
+import BurgerImgage from "../assets/burger.jpg";
+
+export const Data = [
+  {
+    id: 1,
+    name: "Efso Burger",
+    image: BurgerImgage,
+    content: "150 kasap burger,Patates,turşu",
+    price: 250,
+  },
+  {
+    id: 2,
+    name: "Efso Burger",
+    image: BurgerImgage,
+    content: "150 kasap burger,Patates,turşu",
+    price: 250,
+  },
+  {
+    id: 3,
+    name: "Efso Burger",
+    image: BurgerImgage,
+    content: "150 kasap burger,Patates,turşu",
+    price: 250,
+  },
+  {
+    id: 4,
+    name: "Efso Burger",
+    image: BurgerImgage,
+    content: "150 kasap burger,Patates,turşu",
+    price: 250,
+  },
+  {
+    id: 5,
+    name: "Efso Burger",
+    image: BurgerImgage,
+    content: "150 kasap burger,Patates,turşu",
+    price: 250,
+  },
+  {
+    id: 6,
+    name: "Efso Burger",
+    image: BurgerImgage,
+    content: "150 kasap burger,Patates,turşu",
+    price: 250,
+  },
+  {
+    id: 7,
+    name: "Efso Burger",
+    image: BurgerImgage,
+    content: "150 kasap burger,Patates,turşu",
+    price: 250,
+  },
+  {
+    id: 8,
+    name: "Efso Burger",
+    image: BurgerImgage,
+    content: "150 kasap burger,Patates,turşu",
+    price: 250,
+  },
+  {
+    id: 9,
+    name: "Efso Burger",
+    image: BurgerImgage,
+    content: "150 kasap burger,Patates,turşu",
+    price: 250,
+  },
+  {
+    id: 10,
+    name: "Efso Burger",
+    image: BurgerImgage,
+    content: "150 kasap burger,Patates,turşu",
+    price: 250,
+  },
+  {
+    id: 11,
+    name: "Efso Burger",
+    image: BurgerImgage,
+    content: "150 kasap burger,Patates,turşu",
+    price: 250,
+  },
+  {
+    id: 12,
+    name: "Efso Burger",
+    image: BurgerImgage,
+    content: "150 kasap burger,Patates,turşu",
+    price: 250,
+  },
+];
