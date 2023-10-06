@@ -12,7 +12,7 @@ import React from "react";
 function MenuItem({ id, image, name, content, price }) {
   return (
     <Card
-      className="w-80 mx-auto shadow-lg text-center lg:w-96 border-b-4"
+      className="w-80 block mx-auto shadow-lg text-center lg:w-96 border-b-4"
       key={id}
     >
       <CardHeader className="shadow-none ">
