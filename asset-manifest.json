@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-burger/static/css/main.5d6e5363.css",
+    "main.js": "/react-burger/static/js/main.c685298f.js",
+    "static/js/787.48b80222.chunk.js": "/react-burger/static/js/787.48b80222.chunk.js",
+    "static/media/banner.png": "/react-burger/static/media/banner.57fa383005506aceb225.png",
+    "static/media/banneryeni.jpg": "/react-burger/static/media/banneryeni.c76334f1e7458eac951e.jpg",
+    "static/media/burger.jpg": "/react-burger/static/media/burger.0a7078db538aca4df2fe.jpg",
+    "static/media/burgerlogo.png": "/react-burger/static/media/burgerlogo.59f6eaddfc098a62c68b.png",
+    "index.html": "/react-burger/index.html",
+    "main.5d6e5363.css.map": "/react-burger/static/css/main.5d6e5363.css.map",
+    "main.c685298f.js.map": "/react-burger/static/js/main.c685298f.js.map",
+    "787.48b80222.chunk.js.map": "/react-burger/static/js/787.48b80222.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d6e5363.css",
+    "static/js/main.c685298f.js"
+  ]
+}
